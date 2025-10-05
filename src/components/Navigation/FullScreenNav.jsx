@@ -3,7 +3,7 @@ import gsap from 'gsap';
 import React, { useRef } from 'react'
 import NavContext, { NavbarContext } from '../../context/NavContext';
 import { useContext } from 'react';
-import Clock from '../time/clock';
+import Clock from '../time/Clock';
 import { Link } from 'react-router-dom';
 import { useEffect } from 'react';
 
